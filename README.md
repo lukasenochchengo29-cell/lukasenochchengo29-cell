@@ -137,40 +137,58 @@ impl Developer {
 
 <div align="center">
 
-<a href="https://github.com/lukasenochchengo29-cell/no-loss-auction-frontend-done">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lukasenochchengo29-cell&repo=no-loss-auction-frontend-done&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="47%"/>
-</a>
-&nbsp;
-<a href="https://github.com/lukasenochchengo29-cell/stellar-impact-bootcamp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lukasenochchengo29-cell&repo=stellar-impact-bootcamp&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="47%"/>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+### [`No-Loss Auction`](https://github.com/lukasenochchengo29-cell/no-loss-auction-frontend-done)
 
-<a href="https://github.com/lukasenochchengo29-cell/bill-manager-rust">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lukasenochchengo29-cell&repo=bill-manager-rust&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="47%"/>
-</a>
-&nbsp;
-<a href="https://github.com/lukasenochchengo29-cell/hotel_management_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lukasenochchengo29-cell&repo=hotel_management_system&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="47%"/>
-</a>
+<img src="https://img.shields.io/badge/Soroban-7C00FF?style=flat-square&logo=stellar&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
+
+> Decentralized auction on Stellar — non-winning bids returned. Freighter wallet integration + Soroban smart contracts on testnet.
+
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-58A6FF?style=for-the-badge&logoColor=white)](https://no-loss-auction-frontend-done.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### [`Stellar Impact Bootcamp`](https://github.com/lukasenochchengo29-cell/stellar-impact-bootcamp)
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Soroban_SDK-7C00FF?style=flat-square&logo=stellar&logoColor=white"/> <img src="https://img.shields.io/badge/DeFi-1a1b27?style=flat-square"/>
+
+> Smart contract development with Rust & Soroban SDK. Real-world DeFi patterns, protocol design, and live deployment sessions.
+
+[![Source Code](https://img.shields.io/badge/%E2%9C%A6%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukasenochchengo29-cell/stellar-impact-bootcamp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`Bill Manager`](https://github.com/lukasenochchengo29-cell/bill-manager-rust)
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Systems-555?style=flat-square"/>
+
+> Interactive CLI bill/expense manager. Built with ownership patterns, HashMaps, pattern matching, and modular Rust architecture.
+
+[![Source Code](https://img.shields.io/badge/%E2%9C%A6%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukasenochchengo29-cell/bill-manager-rust)
+
+</td>
+<td width="50%" valign="top">
+
+### [`Hotel Management System`](https://github.com/lukasenochchengo29-cell/hotel_management_system)
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
+
+> Full-stack hotel system — rooms, bookings, revenue dashboard, dark mode, glassmorphism UI, localStorage persistence.
+
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-58A6FF?style=for-the-badge&logoColor=white)](https://hotel-management-system-one-ashen.vercel.app)
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<br/>
-
-<details>
-<summary><b>🔍 Project Details</b> (click to expand)</summary>
-<br/>
-
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **No-Loss Auction** | Decentralized auction on Stellar — bids returned to non-winners. Freighter wallet integration, Soroban smart contracts on testnet. | `Rust` `Soroban` `JS` | [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://no-loss-auction-frontend-done.vercel.app) |
-| **Stellar Impact Bootcamp** | Smart contract development with Rust & Soroban SDK. DeFi patterns, protocol design, live sessions. | `Rust` `Soroban` `Stellar` | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/lukasenochchengo29-cell/stellar-impact-bootcamp) |
-| **Bill Manager** | CLI bill/expense manager in Rust. Ownership, HashMaps, pattern matching, modular architecture. | `Rust` `CLI` | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/lukasenochchengo29-cell/bill-manager-rust) |
-| **Hotel Management** | Full-stack hotel system — rooms, bookings, dashboard, dark mode, glassmorphism UI. | `HTML` `CSS` `JS` | [![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://hotel-management-system-one-ashen.vercel.app) |
-
-</details>
 
 <br/>
 
