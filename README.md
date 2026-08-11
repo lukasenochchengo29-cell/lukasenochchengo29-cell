@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9A%A1+Building+systems%2C+not+just+projects;%F0%9F%A6%80+Rust+%7C+Soroban+%7C+Stellar+%7C+Web3;%F0%9F%94%90+AI+%E2%80%A2+Cybersecurity+%E2%80%A2+Smart+Contracts;%F0%9F%9A%80+Turning+ideas+into+working+software" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=%E2%9A%A1+Building+systems%2C+not+just+projects;Rust+%7C+Soroban+%7C+Stellar+%7C+Web3;AI+%E2%80%A2+Cybersecurity+%E2%80%A2+Smart+Contracts;Turning+ideas+into+working+software" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -97,10 +97,6 @@ impl Developer {
 </td>
 </tr>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br/><b>Node.js</b>
-</td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 <br/><b>Git</b>
