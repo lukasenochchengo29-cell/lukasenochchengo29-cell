@@ -126,6 +126,16 @@ impl Developer {
 <br/><b>Soroban</b>
 </td>
 </tr>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+<br/><b>SQL</b>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br/><b>Vercel</b>
+</td>
+</tr>
 </table>
 
 </div>
