@@ -102,6 +102,10 @@ impl Developer {
 <br/><b>Java</b>
 </td>
 <td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br/><b>C</b>
+</td>
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 <br/><b>Git</b>
 </td>
